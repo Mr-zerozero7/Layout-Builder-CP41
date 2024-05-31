@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.layout-container {
+  background-color: #f1f5f9;
+  margin: auto;
+  width: 95%;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}

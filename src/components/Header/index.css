@@ -1,0 +1,8 @@
+/* Write your CSS here */
+.header-container {
+  background-color: #64748b;
+  border-radius: 10px 10px 0px 0px;
+  padding: 20px;
+  width: 100%;
+  text-align: center;
+}
